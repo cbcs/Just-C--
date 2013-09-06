@@ -1,13 +1,3 @@
-Pandaren5.3.0 NO LONGER SUPPORTED I SWITCH TO PRIVATE MODE
-=============
-
-World of Warcraft Mists of Pandaria emulator for 5.3.0 (17128)
-
-READ ME :
-
-PATCHED CLIENT(x86)Windows - http://www.sendspace.com/file/qwrgly	
-DBC - http://www.sendspace.com/file/9euiv9	
-MAPS - http://www.sendspace.com/file/5miivl	
 
 
 TO DO:
